@@ -113,7 +113,7 @@ Architecture       │ Content-Defined Chunking • Async Streaming • Low-Late
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zevatov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_rank=true" height="150" alt="Stanislav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zevatov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zevatov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
 ---
